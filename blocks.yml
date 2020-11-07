@@ -1,0 +1,8 @@
+blocks:
+  polished_diorite:
+    bedrock_identifier: stone
+    block_hardness: 1.5
+    drop_with_hand: false
+    tool_type: pickaxe
+    bedrock_states:
+      stone_type: diorite_smooth
